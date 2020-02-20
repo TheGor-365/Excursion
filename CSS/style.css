@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+  display: block;
+  text-align: center;
+}
+
+a {
+  color: green;
+}
+
+.company_name {
+  font-weight: lighter;
+  color: #A9A9A9;
+  float: right;
+}
+
+#about {
+  color: #A9A9A9;
+}
+
+.camp_img {
+  margin-top: 0.3em;
+}
+
+footer {
+  margin-top: 2em;
+}
+
+h2 h3 {
+  color: #FFE4E1;
+}
